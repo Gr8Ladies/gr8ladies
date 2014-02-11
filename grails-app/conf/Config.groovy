@@ -83,13 +83,15 @@ grails.exceptionresolver.params.exclude = ['password']
 // configure auto-caching of queries by default (if false you can cache individual queries with 'cache: true')
 grails.hibernate.cache.queries = false
 
+grails.plugin.springsecurity.password.algorithm='bcrypt'
+
 environments {
     development {
         grails.logging.jul.usebridge = true
     }
     production {
         grails.logging.jul.usebridge = false
-        // TODO: grails.serverURL = "http://www.changeme.com"
+        grails.serverURL = "http://gr8ladies.org"
     }
 }
 
@@ -113,3 +115,21 @@ log4j = {
            'org.hibernate',
            'net.sf.ehcache.hibernate'
 }
+
+
+// Added by the Spring Security Core plugin:
+grails.plugin.springsecurity.userLookup.userDomainClassName = 'gr8ladies.User'
+grails.plugin.springsecurity.userLookup.authorityJoinClassName = 'gr8ladies.UserRole'
+grails.plugin.springsecurity.authority.className = 'gr8ladies.Role'
+grails.plugin.springsecurity.controllerAnnotations.staticRules = [
+	'/':                              ['permitAll'],
+	'/index.gsp':                     ['permitAll'],
+	'/**/js/**':                      ['permitAll'],
+	'/**/css/**':                     ['permitAll'],
+	'/**/images/**':                  ['permitAll'],
+	'/**/favicon.ico':                ['permitAll']
+]
+// Added by the Spring Security Core plugin:
+grails.plugins.springsecurity.userLookup.userDomainClassName = 'gr8ladies.User'
+grails.plugins.springsecurity.userLookup.authorityJoinClassName = 'gr8ladies.UserRole'
+grails.plugins.springsecurity.authority.className = 'gr8ladies.Role'

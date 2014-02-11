@@ -34,9 +34,16 @@
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Locations <b class="caret"></b></a>
               <ul class="dropdown-menu">
-                <li><a href="us/mn/minneapolis">Minneapolis/St Paul</a></li>
+                <li><a href="chapter/show/us/mn/minneapolis">Minneapolis/St Paul</a></li>
               </ul>
             </li>
+            <li>  <sec:ifLoggedIn>
+                  Welcome Back!
+              </sec:ifLoggedIn>
+
+              <sec:ifNotLoggedIn>
+                  <g:link controller='login' action='auth'>Login</g:link>
+              </sec:ifNotLoggedIn> </li>
           </ul>
         </div>
         <!--/.nav-collapse -->

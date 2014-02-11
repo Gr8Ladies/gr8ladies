@@ -1,1 +1,4 @@
-target/
+grails-app/target/
+grails-app/conf/DataSource.groovy
+*.iml
+*.idea
