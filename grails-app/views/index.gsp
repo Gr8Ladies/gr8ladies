@@ -5,7 +5,7 @@
 
     .footer {
         background-color: #421312;
-        height: 75px;
+        height: 50px;
     }
 
     .btn-custom{
@@ -22,7 +22,7 @@
     }
 
     #content {
-        padding-bottom: 75px;
+        padding-bottom: 50px;
     }
     </style>
 </head>
