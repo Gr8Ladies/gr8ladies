@@ -23,7 +23,7 @@
     <div class="container">
         <div class="navbar-header">
         <ul id="social-media-links" class="nav nav-pills nav-justified">
-            <li><a href="/gr8ladies/index"><i class="fa fa-home fa-3x"></i></a></li>
+            <li><a href="index"><i class="fa fa-home fa-3x"></i></a></li>
             <li><a href="http://twitter.com/gr8ladies" target="_blank"><i class="fa fa-twitter fa-3x"></i></a></li>
             <li><a href="http://facebook.com/gr8ladies" target="_blank"><i class="fa fa-facebook fa-3x"></i></a></li>
             <li><a href="https://www.linkedin.com/groups/Gr8Ladies-6611127" target="_blank"><i class="fa fa-linkedin fa-3x"></i></a></li>

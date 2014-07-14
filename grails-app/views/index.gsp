@@ -64,8 +64,8 @@
             <h2>Upcoming Events</h2>
             <i class="fa fa-calendar fa-5x"></i>
 
-            <p>For a list of our upcoming events, please follow us on twitter @<a
-                    href="twitter.com/gr8ladies">Gr8Ladies</a>.</p>
+            <p>For a list of our upcoming events, please follow us on twitter @
+                <a href="http://twitter.com/gr8ladies" target="_blank">Gr8Ladies</a>.</p>
         </div><!-- /.col-lg-4 -->
     </div><!-- /.row -->
 
@@ -123,7 +123,7 @@
             </h2>
 
             <p class="lead">This website is an opensource project.  If you see something you'd like to change, please submit an issue and submit a pull request to change it.<br><br>
-                <a href="https://github.com/Gr8Ladies/gr8ladies"><i
+                <a href="https://github.com/Gr8Ladies/gr8ladies" target="_blank"><i
                         class="fa fa-github"></i> http://github.com/gr8ladies/gr8ladies</a></p>
         </div>
     </div>
