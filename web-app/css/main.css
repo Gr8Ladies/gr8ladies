@@ -594,3 +594,11 @@ a.skip {
 	position: absolute;
 	left: -9999px;
 }
+
+.carousel-caption {
+    max-width: 550px;
+    padding: 0 20px;
+    margin:0 auto;
+    margin-top: 200px;
+    text-align:center;
+}
