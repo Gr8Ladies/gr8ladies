@@ -14,26 +14,31 @@
 
 <body>
 <div class="container">
-    <div id="gr8ladies-carousel" class="carousel slide" data-ride="carousel">
-        <!-- Indicators -->
-        <ol class="carousel-indicators">
-            <li data-target="#gr8ladies-carousel" data-slide-to="0" class="active"></li>
-            <li data-target="#gr8ladies-carousel" data-slide-to="1"></li>
-            <li data-target="#gr8ladies-carousel" data-slide-to="2"></li>
-        </ol>
-
+    <div id="gr8ladies-carousel" class="carousel slide" data-ride="carousel" style="min-height: 465px;">
         <!-- Wrapper for slides -->
         <div class="carousel-inner">
             <div class="item active" align="center">
-                <img class="carosel-image" src="images/Gr8LadiesCarousel1.jpg" alt="GrLadies Logo">
+                <h1>Sponsors Needed!</h1>
+                <h2>Gr8Ladies is looking for:</h2>
+                <li><h3>Food & Beverages for events</h3></li>
+                <li><h3>Web & Email Hosting</h3></li>
+                <li><h3>Organization Expenses</h3></li>
+                <li><h3>Office Supplies and Printing</h3></li>
+                <li><h3>Travel and Marketing Expenses</h3></li>
+                <g:link class="btn btn-lg btn-success" uri="/sponsors" role="button">Learn More!</g:link>
             </div>
 
             <div class="item" align="center">
-                <img class="carousel-image" src="images/Gr8LadiesCarousel2.jpg" alt="Gr8Workshops Photos">
+                <img class="carousel-image" src="${assetPath(src: 'Gr8LadiesCarousel1.jpg')}" alt="GrLadies Logo"/>
             </div>
 
             <div class="item" align="center">
-                <img class="carousel-image" src="images/Gr8LadiesCarousel3.jpg" alt="St Cloud Meetup">
+                <img class="carousel-image" src="${assetPath(src: 'Gr8LadiesCarousel2.jpg')}"
+                     alt="Gr8Workshops Photos"/>
+            </div>
+
+            <div class="item" align="center">
+                <img class="carousel-image" src="${assetPath(src: 'Gr8LadiesCarousel3.jpg')}" alt="St Cloud Meetup"/>
             </div>
         </div>
         <a class="left carousel-control" href="#gr8ladies-carousel" role="button" data-slide="prev"><span
@@ -50,10 +55,10 @@
         <div class="row">
             <div class="col-lg-4">
                 <h2>Start a Chapter!</h2>
-                <img src="images/Gr8LadiesYourTown.png" alt="Gr8Ladies logo your town here"
-                     style="width: 70px; height: 70px;"/>
+                <asset:image src="Gr8LadiesYourTown.png" alt="Gr8Ladies logo your town here"
+                             style="width: 70px; height: 70px;"/>
 
-                <p>We are always looking to expand to new areas.  To start a chapter in your city, email jstrater@gr8ladies.org</p>
+                <p>We are always looking to expand to new areas.  To start a chapter in your city, email chapters@gr8ladies.org</p>
             </div><!-- /.col-lg-4 -->
             <div class="col-lg-4">
                 <h2>Workshops</h2>
@@ -77,8 +82,8 @@
     <div class="row featurette">
         <div class="col-md-3">
             <a href="http://forum.gr8ladies.org" target="_blank">
-                <img class="featurette-image img-responsive" src="images/forumStockImage.jpg"
-                     alt="Forum Stock Image" style="width: 180px; height: 250px;"></a>
+                <asset:image class="featurette-image img-responsive" src="forumStockImage.jpg"
+                             alt="Forum Stock Image" style="width: 180px; height: 250px;"/></a>
         </div>
 
         <div class="col-md-9">
@@ -103,8 +108,8 @@
 
         <div class="col-md-5">
             <a href="http://jennstrater.blogspot.com/2014/03/gr8ladies-mission.html" target="_blank">
-                <img class="featurette-image img-responsive" src="images/MissionStockImage.jpg"
-                     alt="Mission Statement Stock Image">
+                <asset:image class="featurette-image img-responsive" src="MissionStockImage.jpg"
+                             alt="Mission Statement Stock Image"/>
             </a>
         </div>
     </div>
@@ -113,8 +118,8 @@
 
     <div class="row featurette">
         <div class="col-md-5">
-            <img class="featurette-image img-responsive" src="images/collaborationStockImage.jpeg"
-                 alt="Collaboration Stock Image">
+            <asset:image class="featurette-image img-responsive" src="collaborationStockImage.jpeg"
+                         alt="Collaboration Stock Image"/>
         </div>
 
         <div class="col-md-7">
@@ -132,23 +137,23 @@
 
     <div class="row featurette">
         <div class="col-md-10">
-            <h2 class="featurette-heading">Sponsorship</h2>
+            <g:link uri="/sponsors"><h2 class="featurette-heading">Sponsorship</h2></g:link>
 
             <p class="lead">As our efforts have ramped up, so have our operating expenses(including hosting and maintaining this page.)  Please donate via paypal or discuss
-            sponsorship with Jenn Strater, co-founder, at jstrater@gr8ladies.org</p>
+            sponsorship with Jenn Strater, co-founder, at sponsors@gr8ladies.org</p>
             <a><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
                 <input type="hidden" name="cmd" value="_s-xclick">
                 <input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----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-----END PKCS7-----
                     ">
                 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0"
                        name="submit" alt="PayPal - The safer, easier way to pay online!">
-                <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+                <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1"/>
             </form></a>
         </div>
 
         <div class="col-md-2">
-            <img class="featurette-image img-responsive" src="images/sponsorshipStockImage.jpg"
-                 alt="Sponsorship Stock Image">
+            <g:link uri="/sponsors"><asset:image class="featurette-image img-responsive" src="sponsorshipStockImage.jpg"
+                                                 alt="Sponsorship Stock Image"/></g:link>
         </div>
     </div>
     <hr class="featurette-divider">

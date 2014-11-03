@@ -6,12 +6,9 @@
     <title>Gr8Ladies</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width">
-    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
-    <link rel="stylesheet" href="font-awesome/css/font-awesome.min.css">
-    <g:javascript library="jquery"/>
-<r:require modules="bootstrap"/>
-<g:layoutHead/>
-<r:layoutResources/>
+    <asset:link rel="shortcut icon" href="favicon.ico" type="image/x-icon"/>
+    <asset:stylesheet src="application.css"/>
+    <asset:stylesheet src="../font-awesome/css/font-awesome.min.css"/>
 <style>
     #social-media-links{
     background-color: #421312;
@@ -40,6 +37,6 @@
         </div>
     </div>
     <g:layoutBody/>
-<r:layoutResources/>
+    <asset:javascript src="application.js"/>
 </body>
 </html>
