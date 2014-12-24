@@ -41,9 +41,11 @@
         </ul></p>
     </div>
 
-    <p>*Gr8Ladies is NOT a registered non-profit organization.  However, there are no paid staff and all organizers agree to
-    volunteer their time without expectation of compensation.  As of November 2, 2014, contributions to Gr8Ladies are well below minimum reporting levels
-    for the state of Minnesota.  Please refer to your own local regulations for tax and reporting purposes*</p>
+    <p>*As of November 22, 2014, Gr8Ladies is a non-profit corporation registered with the state of
+    <a href="https://mblsportal.sos.state.mn.us/Business/SearchDetails?filingGuid=062f1456-c072-e411-ae63-001ec94ffe7f" target="_blank">Minnesota</a>
+    and the IRS.  With an appropriate donation, we would like to file for tax-exempt status under 501(c)(3).
+    This could make donations tax-exempt including those made up to 27 months prior to filing.
+    Please refer to local regulations in your area for tax and reporting purposes*</p>
 </div>
 
 <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->

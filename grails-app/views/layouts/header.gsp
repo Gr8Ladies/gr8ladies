@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width">
     <asset:link rel="shortcut icon" href="favicon.ico" type="image/x-icon"/>
     <asset:stylesheet src="application.css"/>
-    <asset:stylesheet src="../font-awesome/css/font-awesome.min.css"/>
+    <asset:stylesheet src="font-awesome/css/font-awesome.min.css"/>
 <style>
     #social-media-links{
     background-color: #421312;

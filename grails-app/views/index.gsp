@@ -69,8 +69,9 @@
             <h2>Upcoming Events</h2>
             <i class="fa fa-calendar fa-5x"></i>
 
-            <p>For a list of our upcoming events, please follow us on twitter @
-                <a href="http://twitter.com/gr8ladies" target="_blank">Gr8Ladies</a>.</p>
+            <p>For a list of our upcoming events, please follow us on twitter
+            @<a href="http://twitter.com/gr8ladies" target="_blank">Gr8Ladies</a>
+            and check our <a href="http://meetup.com/gr8ladies" target="_blank">meetup</a> page.</p>
         </div><!-- /.col-lg-4 -->
     </div><!-- /.row -->
 
