@@ -53,27 +53,29 @@
 
         <!-- Three columns of text below the carousel -->
         <div class="row">
-            <div class="col-lg-4">
+            <div class="col-md-4">
                 <h2>Start a Chapter!</h2>
                 <asset:image src="Gr8LadiesYourTown.png" alt="Gr8Ladies logo your town here"
                              style="width: 70px; height: 70px;"/>
 
                 <p>We are always looking to expand to new areas.  To start a chapter in your city, email chapters@gr8ladies.org</p>
-            </div><!-- /.col-lg-4 -->
-            <div class="col-lg-4">
+            </div><!-- /.col-md-4 -->
+            <div class="col-md-4">
                 <h2>Workshops</h2>
                 <i class="fa fa-group fa-5x"></i>
 
                 <p>If you'd like to have Gr8Ladies host a workshop with your organization, please email us.</p>
-            </div><!-- /.col-lg-4 -->
-            <h2>Upcoming Events</h2>
-            <i class="fa fa-calendar fa-5x"></i>
+            </div><!-- /.col-md-4 -->
+            <div class="col-md=4">
+                <h2>Upcoming Events</h2>
+                <i class="fa fa-calendar fa-5x"></i>
 
-            <p>For a list of our upcoming events, please follow us on twitter
-            @<a href="http://twitter.com/gr8ladies" target="_blank">Gr8Ladies</a>
-            and check our <a href="http://meetup.com/gr8ladies" target="_blank">meetup</a> page.</p>
-        </div><!-- /.col-lg-4 -->
-    </div><!-- /.row -->
+                <p>For a list of our upcoming events, please follow us on twitter
+                @<a href="http://twitter.com/gr8ladies" target="_blank">Gr8Ladies</a>
+                and check our <a href="http://meetup.com/gr8ladies" target="_blank">meetup</a> page.</p>
+            </div><!-- /.col-md-4 -->
+        </div><!-- /.row -->
+    </div><!-- /.container -->
 
 
 <!-- START THE FEATURETTES -->
