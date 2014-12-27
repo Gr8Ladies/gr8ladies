@@ -14,17 +14,20 @@
 
 <body>
 <div class="container">
-    <div id="gr8ladies-carousel" class="carousel slide" data-ride="carousel" style="min-height: 465px;">
+    <div class="mobile-friendly">
+        Gr8Ladies is an organization for the support of women in the Groovy/Grails community. We host educational workshops and meetups.
+    </div>
+    <div id="gr8ladies-carousel" class="carousel slide regular-friendly" data-ride="carousel" style="min-height: 465px; min-width: 1162.5px;">
         <!-- Wrapper for slides -->
         <div class="carousel-inner">
             <div class="item active" align="center">
                 <h1>Sponsors Needed!</h1>
                 <h2>Gr8Ladies is looking for:</h2>
-                <li><h3>Food & Beverages for events</h3></li>
-                <li><h3>Web & Email Hosting</h3></li>
-                <li><h3>Organization Expenses</h3></li>
-                <li><h3>Office Supplies and Printing</h3></li>
-                <li><h3>Travel and Marketing Expenses</h3></li>
+                <h3>Food &amp; Beverages for events</h3>
+                <h3>Web &amp; Email Hosting</h3>
+                <h3>Organization Expenses</h3>
+                <h3>Office Supplies and Printing</h3>
+                <h3>Travel and Marketing Expenses</h3>
                 <g:link class="btn btn-lg btn-success" uri="/sponsors" role="button">Learn More!</g:link>
             </div>
 
@@ -54,6 +57,14 @@
         <!-- Three columns of text below the carousel -->
         <div class="row">
             <div class="col-md-4">
+                <h2>Upcoming Events</h2>
+                <i class="fa fa-calendar fa-5x"></i>
+
+                <p>For a list of our upcoming events, please follow us on twitter
+                @<a href="http://twitter.com/gr8ladies" target="_blank">Gr8Ladies</a>
+                and check our <a href="http://meetup.com/gr8ladies" target="_blank">meetup</a> page.</p>
+            </div><!-- /.col-md-4 -->
+            <div class="col-md-4">
                 <h2>Start a Chapter!</h2>
                 <asset:image src="Gr8LadiesYourTown.png" alt="Gr8Ladies logo your town here"
                              style="width: 70px; height: 70px;"/>
@@ -65,14 +76,6 @@
                 <i class="fa fa-group fa-5x"></i>
 
                 <p>If you'd like to have Gr8Ladies host a workshop with your organization, please email us.</p>
-            </div><!-- /.col-md-4 -->
-            <div class="col-md=4">
-                <h2>Upcoming Events</h2>
-                <i class="fa fa-calendar fa-5x"></i>
-
-                <p>For a list of our upcoming events, please follow us on twitter
-                @<a href="http://twitter.com/gr8ladies" target="_blank">Gr8Ladies</a>
-                and check our <a href="http://meetup.com/gr8ladies" target="_blank">meetup</a> page.</p>
             </div><!-- /.col-md-4 -->
         </div><!-- /.row -->
     </div><!-- /.container -->

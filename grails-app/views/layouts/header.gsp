@@ -9,6 +9,7 @@
     <asset:link rel="shortcut icon" href="favicon.ico" type="image/x-icon"/>
     <asset:stylesheet src="application.css"/>
     <asset:stylesheet src="font-awesome/css/font-awesome.min.css"/>
+    <asset:stylesheet src="mobile.css" media="handheld"/>
 <style>
     #social-media-links{
     background-color: #421312;
@@ -18,7 +19,7 @@
 
 <body>
     <div class="container">
-        <div class="nav-wrap">
+        <div class="nav-wrap menu-width">
         <ul id="social-media-links" class="nav nav-pills nav-justified">
             <li><a href="index"><i class="fa fa-home fa-3x"></i></a></li>
             <li><a href="http://twitter.com/gr8ladies" target="_blank"><i class="fa fa-twitter fa-3x"></i></a></li>
