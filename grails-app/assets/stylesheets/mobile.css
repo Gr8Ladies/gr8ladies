@@ -3,7 +3,7 @@
 */
 
 .mobile-friendly {
-	display: none;
+	display: inline;
 }
 
 .regular-friendly {
@@ -11,5 +11,5 @@
 }
 
 .menu-width {
-	min-width: 1162.5px;
+	min-width: 0px;
 }
