@@ -1,3 +1,7 @@
+.idea
+*.iml
+build/
+.gradle
 *.iws
 *Db.properties
 *Db.script
@@ -15,6 +19,3 @@ stacktrace.log
 /web-app/WEB-INF/classes
 /.link_to_grails_plugins/
 /target-eclipse/
-*.iml
-.idea
-*.ipr
