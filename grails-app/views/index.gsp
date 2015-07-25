@@ -114,10 +114,20 @@
         <hr class="featurette-divider"/>
         <div class="row">
             <div class="col-xs-12" align="middle">
-                <h4>Other Sponsors</h4>
+                <h4>Meeting Space, Product, and Other Sponsors</h4>
             </div>
+        </div>
+        <div class="row">
+            <div class="col-xs-6" align="middle">
+                <asset:image src="sponsors/jetbrains-logo.png" class="img-responsive"></asset:image>
+            </div>
+            <div class="col-xs-6" align="middle">
+                <asset:image src="sponsors/smartthings-logo.png" class="img-responsive"></asset:image>
+            </div>
+        </div>
+        <div class="row">
             <div class="col-xs-12" align="middle">
-                <asset:image src="sponsors/jetbrains-logo.png"></asset:image>
+                <asset:image src="sponsors/opi-logo.png" class="img-responsive" width="40%" height="40%"></asset:image>
             </div>
         </div>
 
