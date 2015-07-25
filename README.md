@@ -10,7 +10,7 @@ This repository contains the source code for the [Gr8Ladies](http://www.gr8ladie
 - Have java and grails(version 3.0.1) installed.  See [https://github.com/gr8workshops/gr8workshops-content/wiki/Gr8Ladies-Gr8Workshop-Setup-Instructions](https://github.com/gr8workshops/gr8workshops-content/wiki/Gr8Ladies-Gr8Workshop-Setup-Instructions) for help getting started.
 - Pick an issue to work on or suggest a new one [https://github.com/Gr8Ladies/gr8ladies/issues](https://github.com/Gr8Ladies/gr8ladies/issues)
 
-#### Running and testing the project locally
+#### Running and testing the project locally(command line)
 To run the project from the command line:
 `grails run-app`
 
@@ -18,6 +18,14 @@ The application will startup at localhost:8080 by default.  For some changes, gr
 
 To test the project from the command line(coming soon from a contributor like you!):
 `grails test-app`
+
+#### IntelliJ
+
+From the welcome to intellij screen, click on open. 
+Navigate to the folder where you have the project and click on `build.gradle`.
+On this next screen, use the default settings(verify java_home is pointing to the right place) and click ok. It may take a while from there, but that should be it.
+
+If you aren't familiar with IntelliJ, start with the [Getting Started Guide](https://www.jetbrains.com/idea/documentation/)
 
 ####FAQs
 
