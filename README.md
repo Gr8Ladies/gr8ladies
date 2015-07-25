@@ -38,10 +38,10 @@ Do I need to have a database running locally?
 - Once we add a database, this will need to be updated.
 
 Do I need to be concerned about the deployment environment/infrastructure?
-- No.  Using `grails run-app` should very closely mimic the production environment.
+- No.  Using `grails run-app` should very closely mimic the production environment.  The one caveat so far is to be careful when developing in a case-insensative development environment. Production is case sensative.
 
 Can I develop on a Mac/PC/Linux?
-- Sure! If you run into any problems, let us know.  And be careful not to commit any environment specific files.
+- Sure! If you run into any problems, let us know.  Be careful not to commit any environment specific files.  Also, be careful when naming files/folders if your system is case insensative.
 
 What if I get stuck?
 - If you run into any problems, feel free to email jenn at gr8ladies dot org or customerservice at gr8ladies dot org
