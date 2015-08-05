@@ -7,7 +7,7 @@ class BootStrap {
     def init = { servletContext ->
         Country usa = new Country(name: 'United States of America', abbreviation: 'US', continent: 'North America').save()
         Country uk = new Country(name: 'United Kingdom', abbreviation: 'UK', continent: 'Europe').save()
-        Country austrailia = new Country(name: 'Austrailia', abbreviation: 'AU', continent: 'Austrailia').save()
+        Country australia = new Country(name: 'Australia', abbreviation: 'AU', continent: 'Australia').save()
         Country spain = new Country(name: 'Spain', abbreviation: 'ES', continent: 'Europe').save()
 
         new Company(name: 'Object Partners, Inc.', totalMen: 103, totalWomen: 9, leadershipMen: 8, leadershipWomen: 5,
@@ -20,7 +20,7 @@ class BootStrap {
         new Company(name: 'Cacoethes Software Limited', totalMen: 1, leadershipMen: 1, source: 'Owner', country: uk).save()
 
         new Company(name: 'Anonymous', totalMen: 13, totalWomen: 5, leadershipMen: 3, leadershipWomen: 1, developersMen: 6,
-                    qaWomen: 1, source: 'Employee', country: austrailia).save()
+                    qaWomen: 1, source: 'Employee', country: australia).save()
 
         new Company(name: 'ReachForce', totalMen: 25, totalWomen: 11, leadershipMen: 7, leadershipWomen: 3, developersMen: 5,
                     developersWomen: 3, qaMen: 1, qaWomen: 1, source: 'Employee', country: usa).save()
