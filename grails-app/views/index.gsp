@@ -215,7 +215,7 @@
 
 <div class="footer">
     <div class="container">
-        <p><span class="glyphicon glyphicon-copyright-mark"></span> Gr8Ladies 2015</p>
+        <p><span class="glyphicon glyphicon-copyright-mark"></span> Gr8Ladies 2013-<script type="text/javascript">document.write(new Date().getFullYear());</script></p>
     </div>
 </div>
 

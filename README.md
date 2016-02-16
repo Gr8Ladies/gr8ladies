@@ -47,7 +47,7 @@ What if I get stuck?
 - If you run into any problems, feel free to email jenn at gr8ladies dot org or customerservice at gr8ladies dot org
 
 ---
-Copyright 2013 Gr8Ladies
+Copyright 2013-2016 Gr8Ladies
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
