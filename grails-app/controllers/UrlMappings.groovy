@@ -11,6 +11,11 @@ class UrlMappings {
         "/customError"(controller:"error")
 
         "/"(view:"/index")
+        "/index"(view:"/index")
+        "/about"(view:"/about")
+        "/contact"(view:"/contact")
+        "/workshops"(view:"/workshops")
+
         "500"(view:'/error')
         "404"(view:'/notFound')
     }
