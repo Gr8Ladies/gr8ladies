@@ -18,8 +18,8 @@
                     <p>Registration Opening Soon!</p>
 
                     <p>Sponsored by:</p>
-                    <asset:image src="sponsors/opi-logo.png" class="img-responsive" alt="Object Partners"/>
-                    <asset:image src="sponsors/nerdery-logo.png" class="img-responsive col-xs-4 col-xs-offset-4"
+                    <asset:image src="sponsor-logos/opi-logo.png" class="img-responsive" alt="Object Partners"/>
+                    <asset:image src="sponsor-logos/nerdery-logo.png" class="img-responsive col-xs-4 col-xs-offset-4"
                                  alt="The Nerdery"/>
                 </div>
 
@@ -132,7 +132,7 @@
                     aren't available the whole day, your help is greatly appreciated.  All experience levels are needed.  As a token of our appreciation, volunteers will receive a special thank you
                     gift at the end of the workshop.</p>
 
-                    <p>To sign-up to be a volunteer, email <a
+                    <p>To sign up to be a volunteer, email <a
                             href="mailto:volunteers@gr8ladies.org">volunteers@gr8ladies.org</a></p>
                 </div>
             </div>
@@ -150,7 +150,7 @@
                     your company's name will be included on marketing materials and the website. Individual Contributors are greatly appreciated and will be acknowledged during the
                     event and in the individual contributors section of the main website.  If you do not want to be publicly acknowledged, please add a note with your donation.</p>
 
-                    <p>Donations can be made through PayPal, by check, or for directly paying invoices(such as catering).  To discuss sponsorship options, email <a
+                    <p>Donations can be made through PayPal, by check, or by directly paying invoices(such as catering).  To discuss sponsorship options, email <a
                             href="mailto:sponsors@gr8ladies.org">
                         sponsors@gr8ladies.org</a></p>
                     <a class="text-center"><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">

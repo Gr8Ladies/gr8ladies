@@ -27,7 +27,7 @@
                     <strong><a href="mailto:customerservice@gr8ladies.org">customerservice@gr8ladies.org</a></strong>
                 </p>
 
-                <p>Sponsors:
+                <p>Sponsorship:
                     <strong><a href="mailto:sponsors@gr8ladies.org">sponsors@gr8ladies.org</a></strong>
                 </p>
 

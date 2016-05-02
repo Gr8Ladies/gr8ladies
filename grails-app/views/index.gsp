@@ -98,7 +98,7 @@
 
                 <div class="col-xs-12" align="middle">
                     <div>
-                        <asset:image src="sponsors/opi-logo.png" class="img-responsive" width="50%" alt="Object Partners"/>
+                        <asset:image src="sponsor-logos/opi-logo.png" class="img-responsive" width="50%" alt="Object Partners"/>
                     </div>
                 </div>
             </div>
@@ -107,7 +107,7 @@
 
                 <div class="col-xs-12" align="middle">
                     <div>
-                        <asset:image src="sponsors/smartthings.png" class="img-responsive" width="40%" alt="SmartThings"/>
+                        <asset:image src="sponsor-logos/smartthings.png" class="img-responsive" width="40%" alt="SmartThings"/>
                     </div>
                 </div>
             </div>
