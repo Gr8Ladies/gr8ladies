@@ -92,12 +92,12 @@
 
             <div class="col-sm-12">
                 <div class="col-sm-4 text-center col-sm-offset-4">
-                    <img class="img-responsive" src="http://placehold.it/450?text=YOUR%20NAME%20HERE">
+                    <img class="img-responsive" src="http://placehold.it/300?text=YOUR%20NAME%20HERE">
                 </div>
             </div>
 
             <div class="col-sm-12">
-                <p class="text-center">To volunteer with Gr8Ladies, email volunteers@gr8ladies.org</p>
+                <p class="text-center">To volunteer with Gr8Ladies, email <a href="mailto:volunteers@gr8ladies.org">volunteers@gr8ladies.org</a></p>
             </div>
         </div>
     </div>

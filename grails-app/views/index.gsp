@@ -98,7 +98,7 @@
 
                 <div class="col-xs-12" align="middle">
                     <div>
-                        <asset:image src="sponsors/opi-logo.png" class="img-responsive" width="50%"></asset:image>
+                        <asset:image src="sponsors/opi-logo.png" class="img-responsive" width="50%" alt="Object Partners"/>
                     </div>
                 </div>
             </div>
@@ -107,7 +107,7 @@
 
                 <div class="col-xs-12" align="middle">
                     <div>
-                        <asset:image src="sponsors/smartthings.png" class="img-responsive" width="40%"></asset:image>
+                        <asset:image src="sponsors/smartthings.png" class="img-responsive" width="40%" alt="SmartThings"/>
                     </div>
                 </div>
             </div>
@@ -133,7 +133,7 @@
                 <h2 class="intro-text text-center">Mission
                 </h2>
                 <hr>
-                <asset:image class="img-responsive hidden-xs img-border img-left" src="mission-stock-image.jpg"/>
+                <asset:image class="img-responsive hidden-xs img-border img-left" src="mission-stock-image.jpg" alt="Mission"/>
                 <p>Back in March 2014, when we were just getting going, it became clear that we needed to define who we are and what our purpose is. This blog post written by Co-Founder Jenn also goes over a brief history of Gr8Ladies.</p>
             </div>
 
@@ -152,7 +152,7 @@
                     <strong>Github</strong>
                 </h2>
                 <hr>
-                <asset:image class="img-responsive hidden-xs hidden-sm hidden-md img-border img-right" src="collaboration-stock-image.jpg"/>
+                <asset:image class="img-responsive hidden-xs hidden-sm hidden-md img-border img-right" src="collaboration-stock-image.jpg" alt="Collaboration"/>
 
                 <p>This website is an opensource project. If you see something you'd like to change, please submit an issue and/or a pull request.</p>
             </div>
