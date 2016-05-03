@@ -13,14 +13,17 @@
                 <div class="col-lg-5">
                     <h1 class="text-warning">Next Workshop:</h1>
 
-                    <p>June 18th at Object Partners, Inc.</p>
+                    <p>Saturday, June 18th, 2016 at Object Partners, Inc.</p>
 
-                    <p>Registration Opening Soon!</p>
+                    <p><strong>New to Coding Track</strong> 9 AM to noon</p>
+
+                    <p><strong>New to Groovy Track</strong> 9 AM to 4 PM</p>
 
                     <p>Sponsored by:</p>
                     <asset:image src="sponsor-logos/opi-logo.png" class="img-responsive" alt="Object Partners"/>
                     <asset:image src="sponsor-logos/nerdery-logo.png" class="img-responsive col-xs-4 col-xs-offset-4"
                                  alt="The Nerdery"/>
+
                 </div>
 
                 <div class="col-lg-7">
@@ -74,13 +77,11 @@
                 <asset:image class="hidden-xs img-responsive img-border img-right" src="workshop_beginner.jpg"/>
 
                 <div>
-                    <p>The "New to Coding" track is aimed at absolute beginners. Previous workshops covered an introduction to HTML, Groovy, and Grails. Attendees with absolutely zero knowledge of
-                    programming started learning about reasoning and how to read computer code. They looked at a simple website in HTML (the language of web pages) and worked up to developing the
-                    same website in Grails, a web framework that uses the Groovy programming language to create HTML web pages in a dynamic way. Grails can be being easier to use and maintain
-                    (once you learn it!) than plain HTML development.
-                    </p>
+                    <p>The beginner course is accessible to those with zero knowledge of programming and is open to anyone who doesn't consider themselves "a programmer."
+                    This course will cover the basics of programming-- knowledge that's transferable to any modern language-- and we'll learn how to implement these skills in Groovy.
+                    Attendees should bring their own laptop but won't need to install anything; everything we do will be done in an online tool called "Groovy Web Console."</p>
 
-                    <p>For this next edition, the beginner track will have all new material!</p>
+                    <p>I hope you'll leave with a passion for coding and the confidence to keep on learning.</p>
                 </div>
             </div>
         </div>
@@ -99,7 +100,7 @@
                 </div>
 
                 <div>
-                    <p>The "New to Groovy" track is aimed at programmers with at least six months professional experience or 2 semesters of college coursework. Attendees will learn about the programming language
+                    <p>The "New to Groovy" track is aimed at programmers with at least 2 semesters of college coursework or 6+ months professional experience. Attendees will learn about the programming language
                     Groovy, a compiled programming language that promotes rapid development with an easy to learn syntax and the ability to leverage existing Java libraries.  Groovy may look familiar because it
                     takes features from other languages such as Ruby, Python, and Smalltalk.</p>
 
@@ -153,7 +154,8 @@
                     <p>Donations can be made through PayPal, by check, or by directly paying invoices(such as catering).  To discuss sponsorship options, email <a
                             href="mailto:sponsors@gr8ladies.org">
                         sponsors@gr8ladies.org</a></p>
-                    <a class="text-center"><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+                    <a class="text-center"><form action="https://www.paypal.com/cgi-bin/webscr" method="post"
+                                                 target="_top">
                         <input type="hidden" name="cmd" value="_s-xclick">
                         <input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----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-----END PKCS7-----
                         ">
