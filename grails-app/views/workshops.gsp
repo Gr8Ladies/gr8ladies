@@ -10,10 +10,14 @@
     <div class="row">
         <div class="box">
             <div class="col-lg-12">
-                <div class="col-lg-5">
-                    <h1 class="text-warning">Next Workshop:</h1>
+                <hr>
+                <h2 class="intro-text text-center">Next Workshop</h2>
+                <hr>
 
-                    <p>Saturday, June 18th, 2016 at Object Partners, Inc.</p>
+                <div class="col-lg-5">
+                    <h3 class="text-info">Registration Opening Soon!</h3>
+
+                    <p>Saturday, June 18th, 2016 at Object Partners</p>
 
                     <p><strong>New to Coding Track</strong> 9 AM to noon</p>
 

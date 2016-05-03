@@ -172,11 +172,12 @@
                 </h2>
                 <hr>
 
-                <p>As our efforts have ramped up, so have our operating expenses(including hosting and maintaining this page.)
-                Please donate via paypal or discuss sponsorship with Jenn Strater, co-founder, at sponsors@gr8ladies.org.</p>
+                <p>As our efforts have ramped up, so have our operating expenses -- including hosting and maintaining this page.
+                Please donate via paypal or discuss sponsorship with Jenn Strater, co-founder, at <a href="mailto:sponsors@gr8ladies.org">sponsors@gr8ladies.org.</a></p>
 
                 <p>If you'd like to dedicate funds to a particular outreach project, please add that in the notes section.
                 Also, individual and corporate sponsors will be added to the lists above unless the gift is noted as anonymous.</p>
+
             </div>
 
             <div align="middle"><a><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
@@ -188,6 +189,9 @@
                 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1"
                      height="1"/>
             </form></a></div>
+            <small>Gr8Ladies is a registered non-profit organization in the state of
+                <a href="https://mblsportal.sos.state.mn.us/Business/SearchDetails?filingGuid=062f1456-c072-e411-ae63-001ec94ffe7f" target="_blank">Minnesota</a>. We also have a federal EIN but have not filed for 501(c)3 status yet.
+            We can provide invoicing and a W-9 form as needed.</small>
         </div>
     </div>
 
