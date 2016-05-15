@@ -53,10 +53,10 @@
         <div class="box">
             <p class="text-center">Check us out on:</p>
             <ul class="list-inline text-center">
-                <li><p><a href="http://meetup.com/gr8ladies" target="_blank">Meetup.com</a></p></li>
-                <li><p><a href="http://twitter.com/gr8ladies" target="_blank">Twitter(Global)</a></p></li>
-                <li><p><a href="http://twitter.com/gr8ladiesmsp" target="_blank">Twitter(Minneapolis)</a></p></li>
-                <li><p><a href="http://facebook.com/gr8ladies" target="_blank">Facebook</a></p></li>
+                <li><p><a href="https://meetup.com/gr8ladies" target="_blank">Meetup.com</a></p></li>
+                <li><p><a href="https://twitter.com/gr8ladies" target="_blank">Twitter(Global)</a></p></li>
+                <li><p><a href="https://twitter.com/gr8ladiesmsp" target="_blank">Twitter(Minneapolis)</a></p></li>
+                <li><p><a href="https://facebook.com/gr8ladies" target="_blank">Facebook</a></p></li>
             </ul>
         </div>
     </div>
@@ -80,7 +80,7 @@
             </div>
 
             <div class="col-sm-3 text-center">
-                <img class="img-responsive" src="http://placehold.it/300" alt="Allison">
+                <img class="img-responsive" src="https://placehold.it/300" alt="Allison">
 
                 <h3>Allison
                     <small>Co-Founder</small>
@@ -102,19 +102,19 @@
                 </div>
 
                 <div class="col-lg-3 text-center">
-                    <img class="img-responsive" src="http://placehold.it/300?text=YOUR%20NAME%20HERE">
+                    <img class="img-responsive" src="https://placehold.it/300?text=YOUR%20NAME%20HERE">
                 </div>
 
                 <div class="col-lg-3 text-center">
-                    <img class="img-responsive" src="http://placehold.it/300?text=YOUR%20NAME%20HERE">
+                    <img class="img-responsive" src="https://placehold.it/300?text=YOUR%20NAME%20HERE">
                 </div>
 
                 <div class="col-lg-3 text-center">
-                    <img class="img-responsive" src="http://placehold.it/300?text=YOUR%20NAME%20HERE">
+                    <img class="img-responsive" src="https://placehold.it/300?text=YOUR%20NAME%20HERE">
                 </div>
 
                 <div class="col-lg-3 text-center">
-                    <img class="img-responsive" src="http://placehold.it/300?text=YOUR%20NAME%20HERE">
+                    <img class="img-responsive" src="https://placehold.it/300?text=YOUR%20NAME%20HERE">
                 </div>
 
                 <div class="col-lg-12">
