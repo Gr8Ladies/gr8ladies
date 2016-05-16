@@ -25,7 +25,7 @@
 
                     <p>Sponsored by:</p>
                     <asset:image src="sponsor-logos/opi-logo.png" class="img-responsive" alt="Object Partners"/>
-                    <asset:image src="sponsor-logos/nerdery-logo.png" class="img-responsive col-xs-4 col-xs-offset-4"
+                    <asset:image src="sponsor-logos/nerdery-logo.png" class="img-responsive col-xs-10 col-xs-offset-1"
                                  alt="The Nerdery"/>
 
                 </div>
