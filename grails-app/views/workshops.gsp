@@ -27,6 +27,8 @@
                     <asset:image src="sponsor-logos/opi-logo.png" class="img-responsive" alt="Object Partners"/>
                     <asset:image src="sponsor-logos/nerdery-logo.png" class="img-responsive col-xs-10 col-xs-offset-1"
                                  alt="The Nerdery"/>
+                    <asset:image src="sponsor-logos/surescripts-logo.png"
+                                 class="img-responsive col-xs-10 col-xs-offset-1" alt="SureScripts"/>
 
                 </div>
 
