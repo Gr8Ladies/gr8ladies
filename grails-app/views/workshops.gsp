@@ -24,9 +24,9 @@
 
                     <p>Saturday, June 18th, 2016 at Object Partners</p>
 
-                    <p><strong>New to Coding Track</strong> 9 AM to noon</p>
-
                     <p><strong>New to Groovy Track</strong> 9 AM to 4 PM</p>
+                    <p>Select the 'REMOTE' ticket option to attend remotely.</p>
+                    <p><strong>New to Coding Track</strong>  *RESCHEDULED TO LATE JULY/EARLY AUGUST*</p>
 
                     <p>Sponsored by:</p>
                     <asset:image src="sponsor-logos/opi-logo.png" class="img-responsive" alt="Object Partners"/>
@@ -81,14 +81,14 @@
             <div class="col-lg-12">
                 <hr>
 
-                <h2 class="intro-text text-center">New To Coding Track
+                <h2 class="intro-text text-center">New To Coding Track **RESCHEDULED TO LATE JULY/EARLY AUGUST**
                 </h2>
                 <hr>
 
                 <asset:image class="hidden-xs img-responsive img-border img-right" src="workshop_beginner.jpg"/>
 
                 <div>
-                    <h5>Instructor: Allison F</h5>
+                    <h5>Instructor: TBA</h5>
 
                     <p>The beginner course is accessible to those with zero knowledge of programming and is open to anyone who doesn't consider themselves "a programmer."
                     This course will cover the basics of programming-- knowledge that's transferable to any modern language-- and we'll learn how to implement these skills in Groovy.
@@ -113,7 +113,7 @@
                 </div>
 
                 <div>
-                    <h5 class="text-right">Instructor: Jenn Strater & TBA</h5>
+                    <h5 class="text-right">Instructor: Jenn Strater</h5>
 
                     <p>The "New to Groovy" track is aimed at programmers with at least 2 semesters of college coursework or 6+ months professional experience. Attendees will learn about the programming language
                     Groovy, a compiled programming language that promotes rapid development with an easy to learn syntax and the ability to leverage existing Java libraries.  Groovy may look familiar because it
@@ -122,15 +122,11 @@
                     <p>The morning session will include a crash course and hands-on-lab with Groovy.  Other sessions will cover 75-minute special topic teasers for Groovy ecosystem tools taught by local
                     industry experts. The topics change at each workshop depending on interest and speaker availability.</p>
 
-                    <p>Topics could include:
+                    <p>Topics for the June 18 workshop will include:
                     <ul>
-                        <li><p>Grails</p></li>
-                        <li><p>Test-Driven Development (TDD) with Spock and Geb</p></li>
-                        <li><p>Functional Programming in Groovy</p></li>
+                        <li><p>Intro to Grails(web profile)</p></li>
                         <li><p>Building RESTful APIs</p></li>
-                        <li><p>Ratpack</p></li>
-                        <li><p>Gradle</p></li>
-                        <li><p>Griffon</p></li>
+                        <li><p>Gradle Basics</p></li>
                     </ul></p>
                 </div>
             </div>
