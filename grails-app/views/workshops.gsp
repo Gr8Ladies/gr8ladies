@@ -11,11 +11,16 @@
         <div class="box">
             <div class="col-lg-12">
                 <hr>
+
                 <h2 class="intro-text text-center">Next Workshop</h2>
                 <hr>
 
                 <div class="col-lg-5">
-                    <h3 class="text-info">Registration Opening Soon!</h3>
+                    <h3 class="text-danger text-center">
+                        <a href="http://www.eventbrite.com/e/gr8ladies-gr8workshop-registration-25219881344?ref=ebtnebregn"
+                           target="_blank">
+                            <img src="https://www.eventbrite.com/custombutton?eid=25219881344"
+                                 alt="Eventbrite - Gr8Ladies Gr8Workshop"/></a></h3>
 
                     <p>Saturday, June 18th, 2016 at Object Partners</p>
 
@@ -83,6 +88,8 @@
                 <asset:image class="hidden-xs img-responsive img-border img-right" src="workshop_beginner.jpg"/>
 
                 <div>
+                    <h5>Instructor: Allison F</h5>
+
                     <p>The beginner course is accessible to those with zero knowledge of programming and is open to anyone who doesn't consider themselves "a programmer."
                     This course will cover the basics of programming-- knowledge that's transferable to any modern language-- and we'll learn how to implement these skills in Groovy.
                     Attendees should bring their own laptop but won't need to install anything; everything we do will be done in an online tool called "Groovy Web Console."</p>
@@ -106,6 +113,8 @@
                 </div>
 
                 <div>
+                    <h5 class="text-right">Instructor: Jenn Strater & TBA</h5>
+
                     <p>The "New to Groovy" track is aimed at programmers with at least 2 semesters of college coursework or 6+ months professional experience. Attendees will learn about the programming language
                     Groovy, a compiled programming language that promotes rapid development with an easy to learn syntax and the ability to leverage existing Java libraries.  Groovy may look familiar because it
                     takes features from other languages such as Ruby, Python, and Smalltalk.</p>
