@@ -1,5 +1,7 @@
 # gr8ladies.org
 
+[![Build Status](https://travis-ci.org/Gr8Ladies/gr8ladies.svg?branch=master)](https://travis-ci.org/Gr8Ladies/gr8ladies)
+
 This repository contains the source code for the [Gr8Ladies](http://www.gr8ladies.org) website.
 
 ---
