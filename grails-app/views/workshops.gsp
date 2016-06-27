@@ -16,22 +16,12 @@
                 <hr>
 
                 <div class="col-lg-5">
-                    <h3 class="text-danger text-center">
-                        <a href="http://www.eventbrite.com/e/gr8ladies-gr8workshop-registration-25219881344?ref=ebtnebregn"
-                           target="_blank">
-                            <img src="https://www.eventbrite.com/custombutton?eid=25219881344"
-                                 alt="Eventbrite - Gr8Ladies Gr8Workshop"/></a></h3>
+                    <h3 class="text-danger text-center">Registration Opening Soon!</h3>
 
-                    <p>Saturday, June 18th, 2016 at Object Partners</p>
-
-                    <p><strong>New to Groovy Track</strong> 9 AM to 4 PM</p>
-                    <p>Select the 'REMOTE' ticket option to attend remotely.</p>
-                    <p><strong>New to Coding Track</strong>  *RESCHEDULED TO LATE JULY/EARLY AUGUST*</p>
+                    <p>Saturday, June 30th, 2016 at TBA</p>
+                    <p><strong>New to Coding Track</strong> 9 am to 1 pm</p>
 
                     <p>Sponsored by:</p>
-                    <asset:image src="sponsor-logos/opi-logo.png" class="img-responsive" alt="Object Partners"/>
-                    <asset:image src="sponsor-logos/nerdery-logo.png" class="img-responsive col-xs-10 col-xs-offset-1"
-                                 alt="The Nerdery"/>
                     <asset:image src="sponsor-logos/surescripts-logo.png"
                                  class="img-responsive col-xs-10 col-xs-offset-1" alt="SureScripts"/>
 
@@ -81,7 +71,7 @@
             <div class="col-lg-12">
                 <hr>
 
-                <h2 class="intro-text text-center">New To Coding Track **RESCHEDULED TO LATE JULY/EARLY AUGUST**
+                <h2 class="intro-text text-center">New To Coding Track
                 </h2>
                 <hr>
 
@@ -91,10 +81,10 @@
                     <h5>Instructor: TBA</h5>
 
                     <p>The beginner course is accessible to those with zero knowledge of programming and is open to anyone who doesn't consider themselves "a programmer."
-                    This course will cover the basics of programming-- knowledge that's transferable to any modern language-- and we'll learn how to implement these skills in Groovy.
+                    This course covers the basics of programming-- knowledge that's transferable to any modern language-- and we'll learn how to implement these skills in Groovy.
                     Attendees should bring their own laptop but won't need to install anything; everything we do will be done in an online tool called "Groovy Web Console."</p>
 
-                    <p>I hope you'll leave with a passion for coding and the confidence to keep on learning.</p>
+                    <p>We hope you'll leave with a passion for coding and the confidence to keep on learning.</p>
                 </div>
             </div>
         </div>
@@ -104,7 +94,7 @@
             <div class="col-lg-12">
                 <hr>
 
-                <h2 class="intro-text text-center">New to Groovy Track
+                <h2 class="intro-text text-center">New to Groovy Track -- Last Held June 18, 2016
                 </h2>
                 <hr>
 
@@ -119,10 +109,10 @@
                     Groovy, a compiled programming language that promotes rapid development with an easy to learn syntax and the ability to leverage existing Java libraries.  Groovy may look familiar because it
                     takes features from other languages such as Ruby, Python, and Smalltalk.</p>
 
-                    <p>The morning session will include a crash course and hands-on-lab with Groovy.  Other sessions will cover 75-minute special topic teasers for Groovy ecosystem tools taught by local
+                    <p>The morning session includes a crash course and hands-on-lab with Groovy.  Other sessions cover 75-minute special topic teasers for Groovy ecosystem tools taught by local
                     industry experts. The topics change at each workshop depending on interest and speaker availability.</p>
 
-                    <p>Topics for the June 18 workshop will include:
+                    <p>Topics for the June 18 workshop included:
                     <ul>
                         <li><p>Intro to Grails(web profile)</p></li>
                         <li><p>Building RESTful APIs</p></li>
