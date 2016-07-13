@@ -38,6 +38,7 @@
                 <p>Allison:
                     <strong><a href="mailto:allison@gr8ladies.org">allison@gr8ladies.org</a></strong>
                 </p>
+                <p class="text-center">or submit the <a href="http://goo.gl/forms/etFtmSkVktvVRnnD2" target="_blank">Contact Form</a> </p>
             </div>
 
             <div class="clearfix"></div>
