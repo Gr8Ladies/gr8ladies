@@ -15,7 +15,7 @@
             <div class="col-lg-12">
                 <hr>
 
-                <h2 class="intro-text text-center">About<strong>Gr8Ladies</strong></h2>
+                <h2 class="intro-text text-center">About Gr8Ladies</h2>
                 <hr>
             </div>
 
@@ -45,6 +45,21 @@
                     <li><p>Social Events</p></li>
                     <li><p>Women in tech functions with other local groups</p></li>
                 </ul></p>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="box">
+            <h2 class="text-center">Upcoming Events:</h2>
+
+            <div class="col-sm-2 col-sm-offset-5">
+                <div style="width:195px; text-align:center;"><iframe
+                        src="https://www.eventbrite.com/calendar-widget?eid=26269792657" frameborder="0" height="533"
+                        width="195" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true"></iframe>
+
+                    <div style="font-family:Helvetica, Arial; font-size:10px; padding:5px 0 5px; margin:2px; width:195px; text-align:center;"></div>
+                </div>
             </div>
         </div>
     </div>
@@ -118,8 +133,9 @@
                 </div>
 
                 <div class="col-lg-12">
-                    <p class="text-center">To volunteer with Gr8Ladies, email <a
-                            href="mailto:volunteers@gr8ladies.org">volunteers@gr8ladies.org</a></p>
+                    <p class="text-center">To volunteer with Gr8Ladies or start a new chapter, email <a
+                            href="mailto:volunteers@gr8ladies.org">volunteers@gr8ladies.org</a>
+                        or <a href="http://goo.gl/forms/IsKbpzAyU2xU6Utq1" target="_blank">submit this form</a>.</p>
                 </div>
             </div>
         </div>

@@ -16,11 +16,13 @@
                 <hr>
 
                 <div class="col-lg-5">
-                    <h3 class="text-danger text-center">Registration Opening Soon!</h3>
+                    <h3 class="text-danger text-center">
+                        <a href="http://www.eventbrite.com/e/gr8ladies-gr8workshop-beginner-class-rescheduled-registration-26269792657?ref=ebtnebregn" target="_blank"><img src="https://www.eventbrite.com/custombutton?eid=26269792657" alt="Eventbrite - Gr8Ladies Gr8Workshop - Beginner Class Rescheduled" /></a>
+                    </h3>
 
                     <p>Saturday, June 30th, 2016 at TBA</p>
                     <p><strong>New to Coding Track</strong> 9 am to 1 pm</p>
-
+                    <p>with instructor: <strong>Doug Sabers</strong></p>
                     <p>Sponsored by:</p>
                     <asset:image src="sponsor-logos/surescripts-logo.png"
                                  class="img-responsive col-xs-10 col-xs-offset-1" alt="SureScripts"/>
@@ -78,8 +80,6 @@
                 <asset:image class="hidden-xs img-responsive img-border img-right" src="workshop_beginner.jpg"/>
 
                 <div>
-                    <h5>Instructor: TBA</h5>
-
                     <p>The beginner course is accessible to those with zero knowledge of programming and is open to anyone who doesn't consider themselves "a programmer."
                     This course covers the basics of programming-- knowledge that's transferable to any modern language-- and we'll learn how to implement these skills in Groovy.
                     Attendees should bring their own laptop but won't need to install anything; everything we do will be done in an online tool called "Groovy Web Console."</p>
@@ -135,7 +135,7 @@
                     gift at the end of the workshop.</p>
 
                     <p>To sign up to be a volunteer, email <a
-                            href="mailto:volunteers@gr8ladies.org">volunteers@gr8ladies.org</a></p>
+                            href="mailto:volunteers@gr8ladies.org">volunteers@gr8ladies.org</a> or <a href="http://goo.gl/forms/IsKbpzAyU2xU6Utq1" target="_blank">submit this form</a>.</p>
                 </div>
             </div>
         </div>
@@ -154,7 +154,7 @@
 
                     <p>Donations can be made through PayPal, by check, or by directly paying invoices(such as catering).  To discuss sponsorship options, email <a
                             href="mailto:sponsors@gr8ladies.org">
-                        sponsors@gr8ladies.org</a></p>
+                        sponsors@gr8ladies.org</a> or <a href="http://goo.gl/forms/TA8ja5EUjLi3buhq2" target="_blank">submit this form</a>. </p>
                     <a class="text-center"><form action="https://www.paypal.com/cgi-bin/webscr" method="post"
                                                  target="_top">
                         <input type="hidden" name="cmd" value="_s-xclick">
