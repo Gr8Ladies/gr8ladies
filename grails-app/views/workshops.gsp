@@ -20,10 +20,12 @@
                         <a href="http://www.eventbrite.com/e/gr8ladies-gr8workshop-beginner-class-rescheduled-registration-26269792657?ref=ebtnebregn" target="_blank"><img src="https://www.eventbrite.com/custombutton?eid=26269792657" alt="Eventbrite - Gr8Ladies Gr8Workshop - Beginner Class Rescheduled" /></a>
                     </h3>
 
-                    <p>Saturday, June 30th, 2016 at TBA</p>
-                    <p><strong>New to Coding Track</strong> 9 am to 1 pm</p>
-                    <p>with instructor: <strong>Doug Sabers</strong></p>
-                    <p>Sponsored by:</p>
+                    <h5>Saturday, July 30th, 2016 from 9 am to 4 pm</h5>
+                    <h5>at Object Partners</h5>
+                    <h3>Instructor:</h3>
+                    <h4>Doug Sabers</h4>
+                    <h5>Sr. Software Engineer at SmartThings</p>
+                    <h3>Sponsored by:</h3>
                     <asset:image src="sponsor-logos/surescripts-logo.png"
                                  class="img-responsive col-xs-10 col-xs-offset-1" alt="SureScripts"/>
 
