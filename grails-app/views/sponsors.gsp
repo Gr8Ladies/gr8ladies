@@ -49,6 +49,18 @@
                     <div class="col-sm-12">
                         <h4>Georgina Del Torno Ceballos & Roberto Perez Alcolea</h4>
                         <h4>Søren Glasius</h4>
+                        <h4>Doug Sabers</h4>
+                        <h4>Kousen IT, Inc.</h4>
+                        <h4>Jon DeJong</h4>
+                        <h4>Aaron Zirbes</h4>
+                        <h4>Marcin Erdmann</h4>
+                        <h4>Ken Krebs</h4>
+                        <h4>Jeff Warren</h4>
+                        <h4>Ryan Vanderwerf</h4>
+                        <h4>Lee Fox</h4>
+                        <h4>Michael Androff</h4>
+                        <h4>Stephen Pember</h4>
+                        <h4>Karolina Boboli</h4>
                     </div>
                 </div>
             </div>
@@ -60,8 +72,8 @@
                 <div class="col-xs-12" align="middle">
                     <h1 class="intro-text text-center">Other Support</h1>
                     <hr>
-                    <h5>Royalties from <a href="http://shop.oreilly.com/product/0636920037545.do"
-                                          target="_blank">Learning Ratpack</a></h5>
+                    <h4>Royalties from <a href="http://shop.oreilly.com/product/0636920037545.do"
+                                          target="_blank">Learning Ratpack</a></h4>
                 </div>
             </div>
     </div>

@@ -7,41 +7,41 @@
 
 <body>
 <div class="container">
-    <div class="row">
-        <div class="box">
-            <div class="col-lg-12">
-                <hr>
+    %{--<div class="row">--}%
+        %{--<div class="box">--}%
+            %{--<div class="col-lg-12">--}%
+                %{--<hr>--}%
 
-                <h2 class="intro-text text-center">Next Workshop</h2>
-                <hr>
+                %{--<h2 class="intro-text text-center">Next Workshop</h2>--}%
+                %{--<hr>--}%
 
-                <div class="col-lg-5">
-                    <h3 class="text-danger text-center">
-                        <a href="http://www.eventbrite.com/e/gr8ladies-gr8workshop-beginner-class-rescheduled-registration-26269792657?ref=ebtnebregn" target="_blank"><img src="https://www.eventbrite.com/custombutton?eid=26269792657" alt="Eventbrite - Gr8Ladies Gr8Workshop - Beginner Class Rescheduled" /></a>
-                    </h3>
+                %{--<div class="col-lg-5">--}%
+                    %{--<h3 class="text-danger text-center">--}%
+                        %{--<a href="http://www.eventbrite.com/e/gr8ladies-gr8workshop-beginner-class-rescheduled-registration-26269792657?ref=ebtnebregn" target="_blank"><img src="https://www.eventbrite.com/custombutton?eid=26269792657" alt="Eventbrite - Gr8Ladies Gr8Workshop - Beginner Class Rescheduled" /></a>--}%
+                    %{--</h3>--}%
 
-                    <h5>Saturday, July 30th, 2016 from 9 am to 4 pm</h5>
-                    <h5>at Object Partners</h5>
-                    <h3>Instructor:</h3>
-                    <h4>Doug Sabers</h4>
-                    <h5>Sr. Software Engineer at SmartThings</p>
-                    <h3>Sponsored by:</h3>
-                    <asset:image src="sponsor-logos/surescripts-logo.png"
-                                 class="img-responsive col-xs-10 col-xs-offset-1" alt="SureScripts"/>
+                    %{--<h5>Saturday, July 30th, 2016 from 9 am to 4 pm</h5>--}%
+                    %{--<h5>at Object Partners</h5>--}%
+                    %{--<h3>Instructor:</h3>--}%
+                    %{--<h4>Doug Sabers</h4>--}%
+                    %{--<h5>Sr. Software Engineer at SmartThings</p>--}%
+                    %{--<h3>Sponsored by:</h3>--}%
+                    %{--<asset:image src="sponsor-logos/surescripts-logo.png"--}%
+                                 %{--class="img-responsive col-xs-10 col-xs-offset-1" alt="SureScripts"/>--}%
 
-                </div>
+                %{--</div>--}%
 
-                <div class="col-lg-7">
-                    <iframe class="hidden-xs"
-                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2821.0356481313092!2d-93.248070948696!3d45.00389797899576!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x52b32d965c9a6ecf%3A0x8781cb0a6da75143!2s1515+Central+Ave+NE%2C+Minneapolis%2C+MN+55413!5e0!3m2!1sen!2sus!4v1462038630030"
-                            width="600" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
-                    <iframe class="visible-xs-block img-responsive"
-                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2821.0356481313092!2d-93.248070948696!3d45.00389797899576!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x52b32d965c9a6ecf%3A0x8781cb0a6da75143!2s1515+Central+Ave+NE%2C+Minneapolis%2C+MN+55413!5e0!3m2!1sen!2sus!4v1462038630030"
-                            frameborder="0" style="border:0" allowfullscreen></iframe>
-                </div>
-            </div>
-        </div>
-    </div>
+                %{--<div class="col-lg-7">--}%
+                    %{--<iframe class="hidden-xs"--}%
+                            %{--src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2821.0356481313092!2d-93.248070948696!3d45.00389797899576!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x52b32d965c9a6ecf%3A0x8781cb0a6da75143!2s1515+Central+Ave+NE%2C+Minneapolis%2C+MN+55413!5e0!3m2!1sen!2sus!4v1462038630030"--}%
+                            %{--width="600" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>--}%
+                    %{--<iframe class="visible-xs-block img-responsive"--}%
+                            %{--src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2821.0356481313092!2d-93.248070948696!3d45.00389797899576!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x52b32d965c9a6ecf%3A0x8781cb0a6da75143!2s1515+Central+Ave+NE%2C+Minneapolis%2C+MN+55413!5e0!3m2!1sen!2sus!4v1462038630030"--}%
+                            %{--frameborder="0" style="border:0" allowfullscreen></iframe>--}%
+                %{--</div>--}%
+            %{--</div>--}%
+        %{--</div>--}%
+    %{--</div>--}%
 
     <div class="row">
         <div class="box">
@@ -75,7 +75,7 @@
             <div class="col-lg-12">
                 <hr>
 
-                <h2 class="intro-text text-center">New To Coding Track
+                <h2 class="intro-text text-center">New To Coding Track -- Last Held July 30, 2016
                 </h2>
                 <hr>
 
@@ -105,8 +105,6 @@
                 </div>
 
                 <div>
-                    <h5 class="text-right">Instructor: Jenn Strater</h5>
-
                     <p>The "New to Groovy" track is aimed at programmers with at least 2 semesters of college coursework or 6+ months professional experience. Attendees will learn about the programming language
                     Groovy, a compiled programming language that promotes rapid development with an easy to learn syntax and the ability to leverage existing Java libraries.  Groovy may look familiar because it
                     takes features from other languages such as Ruby, Python, and Smalltalk.</p>
@@ -116,7 +114,7 @@
 
                     <p>Topics for the June 18 workshop included:
                     <ul>
-                        <li><p>Intro to Grails(web profile)</p></li>
+                        <li><p>Intro to Grails</p></li>
                         <li><p>Building RESTful APIs</p></li>
                         <li><p>Gradle Basics</p></li>
                     </ul></p>
