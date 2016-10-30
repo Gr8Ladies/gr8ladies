@@ -57,9 +57,9 @@
                     </div>
 
                     <div>
-                        <p>Gr8Workshops is a Gr8Ladies initiative where we offer entry-level workshops designed to bring more people of diverse backgrounds into the Gr8 (Groovy, Grails, Gradle, etc) community.
+                        <p>Gr8Workshops is an initiative where we offer free entry-level workshops with the hope of bringing more people of diverse backgrounds into the Gr8 (Groovy, Grails, Gradle, etc) community.
                         We feature two tracks: one for those new to programming and the other for experienced programmers new
-                        to Groovy. This event is free and open to anyone of any gender or background looking to learn about Groovy.</p>
+                        to Groovy. Although this event is normally organized by Gr8Ladies, the event is open to anyone of any gender or background looking to learn about Groovy.</p>
 
                         <p>By the end of the session, attendees should have a better understanding of the Gr8 technologies as well as basic software engineering principles and testing practices that
                         will improve their development no matter their primary language of choice.</p>
