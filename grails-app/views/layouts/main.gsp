@@ -32,7 +32,9 @@
 
     <div class="brand"><asset:image src="gr8ladies.png" alt="Gr8Ladies"/></div>
 
-    <div class="address-bar">Minneapolis | Copenhagen | Global</div>
+    <div class="address-bar"><a style="color:inherit;" href="https://twitter.com/gr8ladiesmsp" target="_blank">Minneapolis</a> |
+        <a style="color:inherit;" href="https://twitter.com/gr8ladiesdk" target="_blank">Copenhagen</a> |
+        <a style="color:inherit;" href="https://twitter.com/gr8ladies" target="_blank">Global</a></div>
 
     <!-- Navigation -->
     <nav class="navbar navbar-default" role="navigation">
