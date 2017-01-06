@@ -51,8 +51,8 @@
 
     <div class="row">
         <div class="box">
-            <p class="text-center">Check us out on:</p>
-            <ul class="list-inline text-center">
+            <ul class="text-center" style="list-style-type: none;">
+                <p class="text-center">Check us out on:</p>
                 <li><p><a href="https://meetup.com/gr8ladies" target="_blank">Meetup.com</a></p></li>
                 <li><p><a href="https://twitter.com/gr8ladies" target="_blank">Twitter(Global)</a></p></li>
                 <li><p><a href="https://twitter.com/gr8ladiesmsp" target="_blank">Twitter(Minneapolis)</a></p></li>

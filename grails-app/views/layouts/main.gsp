@@ -11,7 +11,8 @@
 
     <title><g:layoutTitle default="Gr8Ladies"/></title>
 
-    <asset:stylesheet href="bootstrap/bootstrap.min.css"/>
+    <asset:stylesheet src="bootstrap-all.css"/>
+    <asset:stylesheet src="font-awesome-all.css"/>
     <asset:stylesheet href="business-casual.css"/>
 
     <!-- Fonts -->
@@ -91,8 +92,16 @@
     <footer>
         <div class="container">
             <div class="row">
-                <div class="col-lg-12 text-center">
-                    <p>&copy; Gr8Ladies 2013-<script
+                <div class="col-sm-4 text-center col-lg-offset-4">
+                    <p>
+                        <a href="https://www.facebook.com/gr8ladies" target="_blank"><i id="social-fb" class="fa fa-facebook-square fa-3x social"></i></a>
+                        <a href="https://twitter.com/gr8ladies" target="_blank"><i id="social-tw" class="fa fa-twitter-square fa-3x social"></i></a>
+                        <a href="https://meetup.com/gr8ladies" target="_blank"><i id="social-meetup" class="fa fa-meetup fa-3x social"></i></a>
+                        <a href="https://github.com/gr8ladies" target="_blank"><i id="social-github" class="fa fa-github-square fa-3x social"></i></a>
+                        <a href="https://www.linkedin.com/groups/6611127" target="_blank"><i id="social-linkedin" class="fa fa-linkedin-square fa-3x social"></i></a>
+                        <a href="mailto:jenn@gr8ladies.org" target="_blank"><i id="social-em" class="fa fa-envelope-square fa-3x social"></i></a>
+                    <br>
+                    &copy; Gr8Ladies 2013-<script
                             type="text/javascript">document.write(new Date().getFullYear());</script></p>
                 </div>
             </div>
@@ -102,7 +111,7 @@
     <!-- jQuery -->
     <asset:javascript src="jquery.js"/>
     <!-- Bootstrap Core JavaScript -->
-    <asset:javascript src="bootstrap/bootstrap.min.js"/>
+    <asset:javascript src="bootstrap-all.js"/>
     <!-- custom javascript -->
     <asset:javascript src="application.js"/>
     </body>

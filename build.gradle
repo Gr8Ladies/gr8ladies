@@ -1,6 +1,15 @@
 buildscript {
     ext {
         grailsVersion = project.grailsVersion
+
+        bootstrapFramework = [
+            invalidVersionFails : true,
+            fontAwesome : [
+                install : true,
+                version: "4.7.0",
+                invalidVersionFails : true
+            ]
+        ]
     }
     repositories {
         mavenLocal()
@@ -9,6 +18,7 @@ buildscript {
     dependencies {
         classpath "org.grails:grails-gradle-plugin:$grailsVersion"
         classpath 'com.bertramlabs.plugins:asset-pipeline-gradle:2.1.1'
+        classpath "com.siprell.plugins:bootstrap-framework:1.0.3"
     }
 }
 
@@ -26,9 +36,9 @@ apply plugin: 'eclipse'
 apply plugin: 'idea'
 apply plugin: "org.grails.grails-web"
 apply plugin: "org.grails.grails-gsp"
+apply plugin: "com.siprell.plugins.bootstrap-framework"
 
 ext {
-    grailsVersion = project.grailsVersion
     gradleWrapperVersion = project.gradleWrapperVersion
 }
 
@@ -76,3 +86,4 @@ dependencies {
 task wrapper(type: Wrapper) {
     gradleVersion = gradleWrapperVersion
 }
+
