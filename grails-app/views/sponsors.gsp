@@ -108,8 +108,12 @@
                 </form></a></div>
                 <small>Gr8Ladies is a registered non-profit organization in the state of
                     <a href="https://mblsportal.sos.state.mn.us/Business/SearchDetails?filingGuid=062f1456-c072-e411-ae63-001ec94ffe7f"
-                       target="_blank">Minnesota</a>. We also have a federal EIN but have not filed for 501(c)3 status yet.
+                       target="_blank">Minnesota</a>. We also have a federal EIN but since our gross receipts are
+                normally less than $5000 per year we are exempt from filing for 501(c)(3) status and can be treated as
+                a 501(c)(3) charity. This means that donations can be tax-deductible even though we are not listed in the IRS registry.<sup>*</sup>
                 We can provide invoicing and a W-9 form as needed.</small>
+                <br><br>
+                <small><sup>*</sup>https://www.irs.gov/charities-non-profits/application-for-recognition-of-exemption</small>
             </div>
         </div>
     </div>
