@@ -33,13 +33,8 @@
 
     <div class="brand"><asset:image src="gr8ladies.png" alt="Gr8Ladies"/></div>
 
-    <div class="address-bar"><a style="color:inherit;" href="https://twitter.com/gr8ladiesmsp" target="_blank">Minneapolis</a> |
-        <a style="color:inherit;" href="https://twitter.com/gr8ladiesdk" target="_blank">Copenhagen</a> |
-        <a style="color:inherit;" href="https://twitter.com/gr8ladies" target="_blank">Global</a></div>
-
     <!-- Navigation -->
     <nav class="navbar navbar-default" role="navigation">
-        <div class="container">
             <!-- Brand and toggle get grouped for better mobile display -->
             <div class="navbar-header">
                 <button type="button" class="navbar-toggle" data-toggle="collapse"
@@ -56,19 +51,22 @@
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav">
                     <li>
-                        <g:link uri="/">Home</g:link>
+                        <g:link uri="/"><i class="fa fa-home fa-lg"></i></g:link>
                     </li>
                     <li>
                         <g:link uri="about">About</g:link>
-                    </li>
-                    <li>
-                        <g:link uri="contact">Contact</g:link>
                     </li>
                     <li>
                         <g:link uri="workshops">Workshops</g:link>
                     </li>
                     <li>
                         <g:link uri="sponsors">Sponsors</g:link>
+                    </li>
+                    <li>
+                        <g:link uri="conferences">Conferences</g:link>
+                    </li>
+                    <li>
+                        <g:link uri="search"><i class="fa fa-search fa-lg"></i></g:link>
                     </li>
                     <li>
                         <a><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
@@ -84,9 +82,8 @@
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
-        </div>
-        <!-- /.container -->
     </nav>
+
     <g:layoutBody/>
 
     <footer>

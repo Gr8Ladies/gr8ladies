@@ -13,28 +13,8 @@
     <div class="row">
         <div class="box">
             <div class="col-xs-12" align="middle">
-                <h2 class="intro-text text-center">2016 Corporate Sponsors</h2>
+                <h2 class="intro-text text-center">2017 Corporate Sponsors</h2>
                 <hr>
-            </div>
-
-            <div class="row">
-
-                <div class="col-xs-12" align="middle">
-                    <div>
-                        <asset:image src="sponsor-logos/opi-logo.png" class="img-responsive" width="50%"
-                                     alt="Object Partners"/>
-                    </div>
-                </div>
-            </div>
-
-            <div class="row">
-
-                <div class="col-xs-12" align="middle">
-                    <div>
-                        <asset:image src="sponsor-logos/smartthings.png" class="img-responsive" width="40%"
-                                     alt="SmartThings"/>
-                    </div>
-                </div>
             </div>
         </div>
     </div>

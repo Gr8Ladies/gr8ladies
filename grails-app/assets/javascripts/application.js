@@ -1,5 +1,5 @@
 $('.carousel').carousel({
-    interval: 5000 //changes the speed
+    interval: 3000 //changes the speed
 });
 
 (function (i, s, o, g, r, a, m) {
@@ -26,3 +26,13 @@ ga('send', 'pageview');
         fjs.parentNode.insertBefore(js, fjs);
     }
 }(document, "script", "twitter-wjs");
+
+(function() {
+    var cx = '014975317132079158933:-hcj7yexbtm';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+})();

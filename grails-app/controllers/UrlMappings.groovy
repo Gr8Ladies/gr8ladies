@@ -13,9 +13,10 @@ class UrlMappings {
         "/"(view:"/index")
         "/index"(view:"/index")
         "/about"(view:"/about")
-        "/contact"(view:"/contact")
         "/workshops"(view:"/workshops")
         "/sponsors"(view:"/sponsors")
+        "/conferences"(view:"/conferences")
+        "/search"(view:"/search")
 
         "500"(view:'/error')
         "404"(view:'/notFound')

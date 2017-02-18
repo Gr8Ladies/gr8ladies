@@ -12,7 +12,7 @@
 
     <div class="row">
         <div class="box">
-            <div class="col-lg-12 text-center">
+            <div class="col-lg-10 col-lg-offset-1 text-center">
                 <div id="carousel-example-generic" class="carousel slide">
                     <!-- Indicators -->
                     <ol class="carousel-indicators hidden-xs">
