@@ -56,7 +56,6 @@
                 <li><p><a href="https://meetup.com/gr8ladies" target="_blank">Meetup.com</a></p></li>
                 <li><p><a href="https://twitter.com/gr8ladies" target="_blank">Twitter(Global)</a></p></li>
                 <li><p><a href="https://twitter.com/gr8ladiesmsp" target="_blank">Twitter(Minneapolis)</a></p></li>
-                <li><p><a href="https://twitter.com/gr8ladiesdk" target="_blank">Twitter(Denmark)</a></p></li>
                 <li><p><a href="https://facebook.com/gr8ladies" target="_blank">Facebook</a></p></li>
             </ul>
         </div>
