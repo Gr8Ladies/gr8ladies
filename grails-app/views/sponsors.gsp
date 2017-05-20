@@ -37,6 +37,9 @@
 
                     <div class="col-sm-12">
                         <h4>Søren Glasius</h4>
+                        <h4>Jeff Brown</h4>
+                        <h4>Georgina Del Torno</h4>
+                        <h4>Roberto Perez Alcolea</h4>
                     </div>
                 </div>
 

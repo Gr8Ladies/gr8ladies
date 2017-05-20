@@ -35,8 +35,9 @@
 
     <div class="row">
         <div class="box">
-            <p>If tickets/travel awards are available currently, the application will be <a href="https://goo.gl/forms/QwcJY86ebMsZXpxW2" target="_blank">
-                here</a>. If you have any questions about the program, please email <a href="mailto:jenn@gr8ladies.org">jenn@gr8ladies.org</a></p>
+            <p>If tickets/travel awards are available currently, the application will be listed on
+                <a href="https://diversitytickets.org/events" target="_blank">diversitytickets.org</a>.
+            If you have any questions about the program, please email <a href="mailto:jenn@gr8ladies.org">jenn@gr8ladies.org</a></p>
         </div>
     </div>
 
