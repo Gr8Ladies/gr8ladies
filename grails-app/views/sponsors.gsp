@@ -25,6 +25,14 @@
                     </div>
                 </div>
             </div>
+            <div class="row">
+                <div class="col-xs-4 col-xs-offset-4" align="middle">
+                    <div>
+                        <asset:image src="sponsor-logos/wesharehubs.jpg" class="img-responsive" width="50%"
+                                     alt="We Share Hubs"/>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 
