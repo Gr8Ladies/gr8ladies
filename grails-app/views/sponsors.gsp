@@ -25,6 +25,14 @@
                     </div>
                 </div>
             </div>
+            <div class="row">
+                <div class="col-xs-4 col-xs-offset-4" align="middle">
+                    <div>
+                        <asset:image src="sponsor-logos/wesharehubs.jpg" class="img-responsive" width="50%"
+                                     alt="We Share Hubs"/>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 
@@ -40,6 +48,11 @@
                         <h4>Jeff Brown</h4>
                         <h4>Georgina Del Torno</h4>
                         <h4>Roberto Perez Alcolea</h4>
+                        <h4>Ken Kousen</h4>
+                        <h4>Göran Ehrsson</h4>
+                        <h4>Doug Sabers</h4>
+                        <h4>Narahari Lakshminarayana</h4>
+                        <h4>Eric Foster-Johnson</h4>
                     </div>
                 </div>
 
